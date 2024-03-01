@@ -12,3 +12,7 @@ piq
 dearpygui
 git+https://github.com/Po-Hsun-Su/pytorch-ssim.git
 git+https://github.com/facebookresearch/pytorch3d.git
+matplotlib
+lpips
+pytorch-msssim
+scikit-image
