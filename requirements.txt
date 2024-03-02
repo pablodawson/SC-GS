@@ -12,6 +12,5 @@ piq
 dearpygui
 git+https://github.com/Po-Hsun-Su/pytorch-ssim.git
 --no-index
---no-cache-dir
 -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py310_cu117_pyt1131/download.html
 pytorch3d
