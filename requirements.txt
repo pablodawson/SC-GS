@@ -1,17 +1,5 @@
-numpy==1.22.0
-opencv-python==4.5.5.62
-Pillow==7.0.0
-PyYAML==6.0
-scipy==1.10.1
-tensorboard==2.14.0
-tqdm==4.66.1
-imageio
-plyfile
-piq
-dearpygui
 git+https://github.com/Po-Hsun-Su/pytorch-ssim.git
-git+https://github.com/facebookresearch/pytorch3d.git@stable
-matplotlib
-lpips
-pytorch-msssim
-scikit-image
+--no-index
+--no-cache-dir
+-f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py310_cu117_pyt1131/download.html
+pytorch3d
